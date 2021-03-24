@@ -1,3 +1,4 @@
 {
-  "pygmentsCodeFences": true
+  "pygmentsCodeFences": true,
+  "pygmentsCodeFencesGuessSyntax": true
 }
