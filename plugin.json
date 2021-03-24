@@ -1,5 +1,5 @@
 {
 	"version": "1.0",
-	"title": "Archie syntax highlighting",
-	"description": "Customize the Archie theme to always enable syntax highlighting."
+	"title": "Syntax highlighting",
+	"description": "Enable syntax highlighting."
 }
